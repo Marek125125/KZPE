@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'IRLL014TRPBF'
+CLASS = DISCRETE
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Vishay", "IRLL014TRPBF" (!) = "", "SOT230P700X180-4N", "SOT223 (3-Pin)", "844-IRLL014TRPBF", "https://www.mouser.co.uk/ProductDetail/Vishay-Semiconductors/IRLL014TRPBF?qs=I1ZA2VTqfvQIhIILK63hKw%3D%3D", "N channel  ;VBRDSS 60 V;  RDSon 200 mOhm", "http://www.vishay.com/docs/91319/sihll014.pdf", "1.8 mm"
+END_PART
+
+END.

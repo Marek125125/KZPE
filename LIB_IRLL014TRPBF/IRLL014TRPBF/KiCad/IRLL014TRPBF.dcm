@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP IRLL014TRPBF
+D N channel  ;VBRDSS 60 V;  RDSon 200 mOhm
+K
+F http://www.vishay.com/docs/91319/sihll014.pdf
+$ENDCMP
+#
+#End Doc Library

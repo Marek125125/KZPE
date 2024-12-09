@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'LM555CMX_NOPB'
+CLASS = IC
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT", "TJ", "MTBF", "POWER", "SLOPE", "SUBTYPE", "PACKAGE", "RJA", "VCC_MAX", "VCC_MIN", "VIN_MAX", "VIN_MIN", "IOUT_MAX", "IOUT_MIN", "ICC", "IGND", "RCA", "RJC", "ICCQ", "TECHNOLOGY";
+{========================================================================================}
+ "Texas Instruments", "LM555CMX/NOPB" (!) = "", "SOIC127P600X175-8N", "Small Outline Packages", "926-LM555CMX/NOPB", "https://www.mouser.co.uk/ProductDetail/Texas-Instruments/LM555CMX-NOPB?qs=QbsRYf82W3GHnQuoL%2FmIoA%3D%3D", "Highly stable 555 timer for generating accurate time delays and oscillation", "http://www.ti.com/lit/ds/symlink/lm555.pdf", "1.75 mm", "70", "", "1180m", "", "TIMER SMD", "SOIC-8", "170", "18", "", "", "", "", "", "15m", "", "", "", "", "BIPOLAR"
+END_PART
+
+END.

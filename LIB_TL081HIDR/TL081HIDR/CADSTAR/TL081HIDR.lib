@@ -1,0 +1,16 @@
+.TL081HIDR :1 ;Operational Amplifiers - Op Amps Single-channel high-speed standard op amp
+SOIC127P600X175-8N
+*STM IC
+*NGS
+*PLB 1="NC_1" 2="IN-" 3="IN+" 4="VCC-" 5="NC_2" 6="OUT" 7="VCC+" 8="NC_3"
+*MXP 8
+*DFN TL081HIDR
+~!Mouser Part Number (595-TL081HIDR)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/Texas-Instruments/TL081HIDR?qs=pBJMDPsKWf2IEA%252Bv86wIaw%3D%3D)
+~!Manufacturer_Name (Texas Instruments)
+~!Manufacturer_Part_Number (TL081HIDR)
+~!Link Datasheet (https://www.ti.com/lit/ds/symlink/tl081h.pdf?ts=1631512685982&ref_url=https%253A%252F%252Fcomponentsearchengine.com%252F)
+~!Height (1.75mm)
+~!3D_Model (TL081HIDR)
+TL081HIDR
+1.1!U 2.1!U 3.1!U 4.1!U 8.1!U 7.1!U 6.1!U 5.1!U 

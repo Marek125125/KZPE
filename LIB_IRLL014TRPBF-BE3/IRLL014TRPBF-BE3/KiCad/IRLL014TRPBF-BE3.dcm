@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP IRLL014TRPBF-BE3
+D MOSFETs SOT223  60V  2.7A N-CH MOSFET
+K
+F https://www.vishay.com/docs/91319/sihll014.pdf
+$ENDCMP
+#
+#End Doc Library

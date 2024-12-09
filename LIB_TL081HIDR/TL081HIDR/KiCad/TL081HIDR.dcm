@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP TL081HIDR
+D Operational Amplifiers - Op Amps Single-channel high-speed standard op amp
+K
+F https://www.ti.com/lit/ds/symlink/tl081h.pdf?ts=1631512685982&ref_url=https%253A%252F%252Fcomponentsearchengine.com%252F
+$ENDCMP
+#
+#End Doc Library

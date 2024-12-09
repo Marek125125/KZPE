@@ -1,0 +1,9 @@
+Manufacturer=Vishay
+PartNumber=IRLL014TRPBF-BE3
+PartCategory=MOSFET (N-Channel)
+PackageCategory=SOT223 (3-Pin)
+PinCount=4
+Version=1.1
+Released=2024-09-30 03:35:42
+Downloaded=2024-12-02 17:29:06
+3D=Y

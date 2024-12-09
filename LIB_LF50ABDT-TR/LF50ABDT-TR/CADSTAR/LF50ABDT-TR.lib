@@ -1,0 +1,16 @@
+.LF50ABDT-TR :1 ;LF50ABDT-TR, Low Dropout Voltage Regulator, 0.5A, 5 V +/-1%, 3-Pin DPAK
+TO228P972X240-3N
+*STM IC
+*NGS
+*PLB 1="INPUT" 3="OUTPUT" 4="GROUND_(TAB)"
+*MXP 3
+*DFN LF50ABDT-TR
+~!Mouser Part Number (511-LF50ABDT-TR)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/STMicroelectronics/LF50ABDT-TR?qs=CNKVYtQHpo%252BOGu0VfDjPww%3D%3D)
+~!Manufacturer_Name (STMicroelectronics)
+~!Manufacturer_Part_Number (LF50ABDT-TR)
+~!Link Datasheet (http://www.st.com/web/en/resource/technical/document/datasheet/CD00000546.pdf)
+~!Height (2.4mm)
+~!3D_Model (LF50ABDT-TR)
+LF50ABDT-TR
+1.1!I 3.1!Y 4.1!U 

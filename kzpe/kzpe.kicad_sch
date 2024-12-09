@@ -3420,7 +3420,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Library:TL081"
+		(property "Footprint" "kzpe_fp:SOIC127P600X175-8N"
 			(at 87.63 83.82 0)
 			(effects
 				(font
@@ -3775,7 +3775,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm"
+		(property "Footprint" "kzpe_fp:SOIC127P600X175-8N"
 			(at 143.51 95.25 0)
 			(effects
 				(font

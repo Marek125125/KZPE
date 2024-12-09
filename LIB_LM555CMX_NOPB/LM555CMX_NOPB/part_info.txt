@@ -1,0 +1,9 @@
+Manufacturer=Texas Instruments
+PartNumber=LM555CMX/NOPB
+PartCategory=Integrated Circuit
+PackageCategory=Small Outline Packages
+PinCount=8
+Version=4.1
+Released=2016-06-03 07:12:52
+Downloaded=2024-12-02 17:27:44
+3D=Y

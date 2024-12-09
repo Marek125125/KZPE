@@ -1,0 +1,9 @@
+Manufacturer=Texas Instruments
+PartNumber=TL081HIDR
+PartCategory=Integrated Circuit
+PackageCategory=Small Outline Packages
+PinCount=8
+Version=2.1
+Released=2021-09-13 11:12:15
+Downloaded=2024-12-02 17:26:50
+3D=Y

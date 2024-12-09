@@ -1,0 +1,16 @@
+.IRLL014TRPBF :1 ;N channel  ;VBRDSS 60 V;  RDSon 200 mOhm
+SOT230P700X180-4N
+*STM Q
+*NGS
+*PLB 1="G" 2="D_1" 3="S" 4="D_2"
+*MXP 4
+*DFN IRLL014TRPBF
+~!Mouser Part Number (844-IRLL014TRPBF)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/Vishay-Semiconductors/IRLL014TRPBF?qs=I1ZA2VTqfvQIhIILK63hKw%3D%3D)
+~!Manufacturer_Name (Vishay)
+~!Manufacturer_Part_Number (IRLL014TRPBF)
+~!Link Datasheet (http://www.vishay.com/docs/91319/sihll014.pdf)
+~!Height (1.8mm)
+~!3D_Model (IRLL014TRPBF)
+IRLL014TRPBF
+1.1!U 2.1!U 3.1!U 4.1!U 
